@@ -11,7 +11,8 @@ Explore security issues: Identify patterns and trends in the data that can provi
 Perform data visualization: Utilize libraries such as Matplotlib and Seaborn to create visualizations that effectively communicate the findings.
 Dataset
 
-The dataset used for this project is the Global Terrorism Database (GTD), which contains information on terrorist attacks worldwide. The dataset can be accessed from the following link: Global Terrorism Dataset
+The dataset used for this project is the Global Terrorism Database (GTD), which contains information on terrorist attacks worldwide. The dataset can be accessed from the following link: Dataset: [Global Terrorism Dataset](https://bit.ly/2TK5Xn5)
+
 
 ## Tools and Libraries
 
