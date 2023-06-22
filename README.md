@@ -4,6 +4,7 @@ This project is a part of the Data Science and Business Analytics Internship at 
 
 ## Project Overview
 
+
 As a security/defense analyst, the goal is to analyze the dataset and derive insights regarding terrorism incidents worldwide. The main objectives of this EDA project are:
 
 Identify hot zones of terrorism: Analyze the dataset to identify regions or countries with a high frequency of terrorism incidents.
